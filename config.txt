@@ -1,0 +1,19 @@
+﻿system:
+    url: 'https://www.dbdbschool.kr/af'
+    school: '768'
+
+user:
+    #course - 7차일반, 인문, 자연
+    #class  - 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 ...
+    #lectures - 강좌 고유번호, 강좌 상세정보 조회 후 주소창에서 7자리 숫자 입력
+    grade: '1'
+    course: '7차일반' 
+    class: '1'
+    bunho: '1'
+    name: '홍길동'
+    password: '1234'
+    lectures:
+        - '000000'
+        - '000000'
+        - '000000'
+        - '000000'
